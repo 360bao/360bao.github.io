@@ -12,6 +12,5 @@
     "deploy": "gitbook build && gulp deploy"
   },
   "author": "",
-  "license": "ISC",
-  "repository": "https://github.com/jokeewu/19-api-doc.git"
+  "license": "ISC"
 }
