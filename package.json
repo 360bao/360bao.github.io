@@ -1,0 +1,16 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "本项目为19公司相关API接口文档。",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gitbook build && gulp deploy"
+  },
+  "author": "",
+  "license": "ISC"
+}
